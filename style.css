@@ -1,0 +1,186 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+/* Banner Start */
+.banner {
+    display: flex;
+    padding: 3%;
+    margin-bottom: 50px;
+}
+
+.banner .half-width {
+    width: 50%;
+    margin: 5px;
+}
+
+.banner .half-width h1 {
+    font-size: 60px;
+    color: #575757;
+}
+
+.banner .half-width h1 span {
+    color: #FBA24F;
+}
+
+.banner .half-width p {
+    color: #828282;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.banner .half-width a {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(45deg, orange, tomato);
+    border-radius: 20px;
+    color: #fff;
+}
+
+.banner .half-width img {
+    width: 80%;
+    text-align: center;
+    padding-left: 40px;
+}
+
+/* Banner END */
+
+/* About Start */
+.about {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
+
+.about .half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+.about .half-width h1 {
+    font-size: 40px;
+    color: #575757;
+}
+
+.about .half-width p {
+    color: #18191f;
+    font-size: 18px;
+    padding: 0 150px 50px 0;
+}
+
+.about .half-width a {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(45deg, orange, tomato);
+    border-radius: 20px;
+    color: #fff;
+}
+
+#about-center {
+    margin: auto;
+}
+
+.about .half-width img {
+    width: 80%;
+    padding-left: 50px;
+}
+
+/* About END */
+
+/* My Recipies Start */
+.my-recipies .my-Recipies-text {
+    text-align: center;
+}
+
+.my-recipies .my-Recipies-text h1 {
+    font-size: 36px;
+    color: #676767;
+}
+
+.my-recipies .my-Recipies-text p {
+    font-size: 18px;
+    color: #252525;
+}
+
+.my-recipies-items {
+    display: flex;
+    margin: 5%;
+}
+
+.my-recipies .my-recipies-items .recipies-item {
+    width: 30%;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.19), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.my-recipies-items .recipies-item img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.my-recipies-items .recipies-item h3 {
+    font-size: 28px;
+    font-weight: 800;
+    color: #18191F;
+}
+
+.my-recipies-items .recipies-item p {
+    font-size: 18px;
+    color: #18191F;
+}
+
+/* My Recipies END */
+
+/* Social Activites Start */
+.social {
+    display: flex;
+    text-align: center;
+    margin: 100px 0;
+}
+
+.social .stats {
+    width: 30%;
+}
+
+.social .stats h1 {
+    font-size: 48px;
+    color: #18191F;
+}
+
+.social .stats p {
+    font-size: 16px;
+    color: #18191F;
+}
+
+/* Social Activites END */
+
+/* Footer Start */
+
+footer {
+    padding: 80px 0;
+    background: #18191f;
+}
+
+footer h1,
+p {
+    text-align: center;
+
+}
+
+footer h1 {
+    color: #5b5b5b;
+}
+
+footer h1 span {
+    color: #FBA24F;
+}
+
+footer p {
+    color: #fff;
+}
+
+/* Footer End */
