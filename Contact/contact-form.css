@@ -6,6 +6,9 @@ body {
 .contact-form {
     margin: auto;
     width: 50%;
+    background: aquamarine;
+    padding: 80px;
+    height: 75vh;
 }
 
 .contact-form h3 {
@@ -13,6 +16,9 @@ body {
     font-size: 40px;
 }
 
+.contact-form form {
+    text-align: center;
+}
 
 .contact-form form input,
 textarea {
