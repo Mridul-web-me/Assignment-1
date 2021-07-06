@@ -68,6 +68,7 @@ body {
     color: #18191f;
     font-size: 18px;
     padding: 0 150px 50px 0;
+    text-align: initial;
 }
 
 .about .half-width a {
@@ -102,6 +103,7 @@ body {
 .my-recipies .my-Recipies-text p {
     font-size: 18px;
     color: #252525;
+    text-align: initial;
 }
 
 .my-recipies-items {
