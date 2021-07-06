@@ -7,7 +7,7 @@ body {
     margin: auto;
     width: 50%;
     background: aquamarine;
-    padding: 80px;
+    padding: 78px 80px;
     height: 75vh;
 }
 
@@ -39,4 +39,5 @@ textarea {
     color: #fff;
     border: none;
     margin: auto;
+    cursor: pointer;
 }
