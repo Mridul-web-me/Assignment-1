@@ -8,12 +8,12 @@ body {
     width: 50%;
     background: aquamarine;
     padding: 78px 80px;
-    height: 75vh;
 }
 
 .contact-form h3 {
     text-align: center;
     font-size: 40px;
+    color: #FBA24F;
 }
 
 .contact-form form {
@@ -40,4 +40,11 @@ textarea {
     border: none;
     margin: auto;
     cursor: pointer;
+}
+
+.contact-form form button:hover {
+    background: #fff;
+    color: #FBA24F;
+    border: 1px solid #FBA24F;
+    font-weight: 500;
 }
